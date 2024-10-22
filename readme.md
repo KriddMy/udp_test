@@ -18,4 +18,5 @@
 ```./build all```
 
 2. Use script to run client and server with test files
-```./run```
+```./run start```
+```./run stop```
